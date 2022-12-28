@@ -1,0 +1,27 @@
+.navbar {
+  background-color: green !important;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.brand {
+  color: white;
+}
+
+.center-all {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.navbar-brand label {
+  cursor: pointer;
+}
+
+.greenhouse-card {
+  margin: 7px;
+}

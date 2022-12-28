@@ -1,0 +1,9 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+}
+
+.form-link {
+  color: green;
+  cursor: pointer;
+}

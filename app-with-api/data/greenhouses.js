@@ -1,0 +1,68 @@
+const greenHouses = [
+  {
+    id: 0,
+    topic: "green house 1",
+    temperature: 27,
+    pression: 17,
+    humidity: 10,
+    users: [0],
+  },
+  {
+    id: 1,
+    topic: "green house 2",
+    temperature: 23,
+    pression: 19,
+    humidity: 13,
+    users: [0],
+  },
+  {
+    id: 2,
+    topic: "green house 3",
+    temperature: 28,
+    pression: 15,
+    humidity: 18,
+    users: [0],
+  },
+  {
+    id: 3,
+    topic: "green house 4",
+    temperature: 34,
+    pression: 12,
+    humidity: 10,
+    users: [0, 1],
+  },
+  {
+    id: 4,
+    topic: "green house 5",
+    temperature: 21,
+    pression: 9,
+    humidity: 11,
+    users: [1],
+  },
+  {
+    id: 5,
+    topic: "green house 6",
+    temperature: 30,
+    pression: 7,
+    humidity: 20,
+    users: [1],
+  },
+  {
+    id: 6,
+    topic: "green house 7",
+    temperature: 23,
+    pression: 15,
+    humidity: 17,
+    users: [1],
+  },
+  {
+    id: 7,
+    topic: "green house 8",
+    temperature: 34,
+    pression: 16,
+    humidity: 17,
+    users: [1],
+  },
+];
+
+export default greenHouses;
